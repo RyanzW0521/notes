@@ -146,7 +146,7 @@ ____
     但是这边到底是啥意思…… 看不懂
     
     
-    <img src= 144934.png align=center />
+      <img src= 144934.png align=center />
     
     * progression of fitness
     
