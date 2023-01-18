@@ -69,7 +69,10 @@ ____
          4. image sampling
              
              digital img ----> sampling ---->convert continous variable f_c into finite set of nums f_d ----> quantization ----> proper num range
-             1. sampling: $ f_d(m,n) = f_c(m\Delta x, n \Delta y) = f_c(x,y)\vert_{Let x = m \Delta x, y=\Delta y} $
+             1. sampling: 
+             
+                $ f_d(m,n) = f_c(m\Delta x, n \Delta y) = f_c(x,y)\vert_{Let x = m \Delta x, y=\Delta y} $
+             
              2. process:
                  
                  $ sampling function: s(x,y) = \sum_{m=-\infty}^{\infty} \sum_{n=-\infty}^{\infty} \delta(x-m\Delta x, y-\Delta y) $
@@ -87,7 +90,9 @@ ____
                  
                  $$
                  a perodic replication of Fc(u,v)
-              3. if x, y smpling freq > bandwidths---->Fc(u,v)can be recovered by __a low pass filter__ with freq response $ H(u,v) = \{ _0^{\Delta x \Delta y} $
+              3. if x, y smpling freq > bandwidths---->Fc(u,v)can be recovered by __a low pass filter__ with freq response 
+                  
+                  $ H(u,v) = \{ _0^{\Delta x \Delta y} $
               
            
        5. img quantization     
