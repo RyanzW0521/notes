@@ -100,4 +100,5 @@ ____
            ![quantization 2](https://github.com/RyanzW0521/notes/blob/main/NTU%20Course%20Notes%20and%20Others/EE7403/IMGS/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-01-18%20165106.png)
            
            
+           
 
