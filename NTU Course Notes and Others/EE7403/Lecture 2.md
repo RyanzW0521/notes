@@ -90,7 +90,7 @@ ____
                  a perodic replication of Fc(u,v)
               3. if x, y smpling freq > bandwidths---->Fc(u,v)can be recovered by __a low pass filter__ with freq response 
                   
-                  $ H(u,v) = \{ _0^{\Delta x \Delta y} $
+                  $ H(u,v) = {\Delta x \Delta y} $
               
            
        5. img quantization     
