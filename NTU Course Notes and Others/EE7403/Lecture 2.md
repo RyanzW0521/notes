@@ -40,10 +40,8 @@ ____
             u and v are 2 frequency variables
             
             properties: 
-            1. $ F(u,v) = \int F~x(u,y)e^{-j2 \pi vy}dy $ --------------separable
-                only if $ f(x,y) = f~1(x)f~2(y) $, $ F(u,v) = f~1(x)f~2(y) $
-            2. $ F(u,v) = R(u,v) + jI(u,v) = \vert {F(u,v)} \vert e^{j \psi (u,v)} $
-                ---------complex function $ \phi (u,v) = tan^{-1} [ I(u,v)/R(u,v) ] $
+            1. $ F(u,v) = \int F~x(u,y)e^{-j2 \pi vy}dy $  separable only if $ f(x,y) = f~1(x)f~2(y) $, $ F(u,v) = f~1(x)f~2(y) $
+            2. $ F(u,v) = R(u,v) + jI(u,v) = \vert {F(u,v)} \vert e^{j \psi (u,v)} $ complex function $ \phi (u,v) = tan^{-1} [I(u,v)/R(u,v)] $
                 
          2. DFT 
              
